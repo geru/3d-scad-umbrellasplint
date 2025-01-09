@@ -5,6 +5,8 @@ include <BOSL2/shapes3d.scad>
 
 The splint can be used to repair a broken shade umbrella. You choose the dimensions and generate your own handle.
 
+Umbrellas get quite hot. This will not work with pedestrian filaments like PLA or PETG. Must be printed with a high-temperature filament like ASA.
+
 Relies on BOSL2 library.
 
 Models uploaded at: https://www.printables.com/@hkern0
