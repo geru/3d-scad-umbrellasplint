@@ -1,6 +1,6 @@
 # Umbrella splint generator -- Parametric and customizable
 
-The splint can be used to repair a broken shade umbrella. You choose the dimensions and generate your own handle.
+The splint can be used to repair a broken shade umbrella. You choose the dimensions and generate your own splint.
 
 Umbrellas get quite hot. This will not work with pedestrian filaments like PLA or PETG. Must be printed with a high-temperature filament like ASA.
 
